@@ -12,7 +12,7 @@ public class calc {
 		Assert.assertEquals(obj.absoluteVal(2), 2);
 	}
 	
-	//@Test
+	@Test
 	public void TestAbsVal2()
 	{
 		calcCode obj = new calcCode();
