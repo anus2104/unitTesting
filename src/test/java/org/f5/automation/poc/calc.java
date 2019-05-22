@@ -17,6 +17,7 @@ public class calc {
 	{
 		calcCode obj = new calcCode();
 		Assert.assertEquals(obj.absoluteVal(-2), 2);
+		System.out.println("Testing!!!!");
 	}
 	
 }
